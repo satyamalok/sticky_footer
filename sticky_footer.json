@@ -1,0 +1,44 @@
+{
+  "version": "1.0",
+  "defaultStickyButton": {
+    "anchorText": "Download The Speedy Brains App",
+    "redirectUrl": "https://play.google.com/store/apps/details?id=com.thespeedybrains.learners",
+    "freeBadge": "Free",
+    "style": {
+      "background": "#C636B1",
+      "textColor": "#FFFFFF",
+      "badgeColor": "#FFFC13",
+      "badgeTextColor": "#000000",
+      "padding": "15px 0",
+      "fontSize": "18px"
+    }
+  },
+  "groups": {
+    "app-download": {
+      "anchorText": "Get The Speedy Brains App Now",
+      "redirectUrl": "https://play.google.com/store/apps/details?id=com.thespeedybrains.learners",
+      "freeBadge": "Limited Offer",
+      "style": {
+        "background": "#11998e",
+        "textColor": "#FFFFFF",
+        "badgeColor": "#38ef7d",
+        "badgeTextColor": "#FFFFFF",
+        "padding": "12px 0",
+        "fontSize": "16px"
+      }
+    },
+    "premium-access": {
+      "anchorText": "Unlock Premium Features",
+      "redirectUrl": "https://thespeedybrains.com/premium",
+      "freeBadge": "50% Off",
+      "style": {
+        "background": "#8E2DE2",
+        "textColor": "#FFFFFF",
+        "badgeColor": "#4A00E0",
+        "badgeTextColor": "#FFFFFF",
+        "padding": "15px 0",
+        "fontSize": "18px"
+      }
+    }
+  }
+}
