@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "defaultStickyButton": {
+  "default": {
     "anchorText": "Download The Speedy Brains App",
     "redirectUrl": "https://play.google.com/store/apps/details?id=com.thespeedybrains.learners",
     "freeBadge": "Free",
@@ -14,10 +14,10 @@
     }
   },
   "groups": {
-    "app-download": {
-      "anchorText": "Get The Speedy Brains App Now",
+    "sainik": {
+      "anchorText": "The Speedy Brains App Now",
       "redirectUrl": "https://play.google.com/store/apps/details?id=com.thespeedybrains.learners",
-      "freeBadge": "Limited Offer",
+      "freeBadge": "Download",
       "style": {
         "background": "#11998e",
         "textColor": "#FFFFFF",
@@ -27,8 +27,8 @@
         "fontSize": "16px"
       }
     },
-    "premium-access": {
-      "anchorText": "Unlock Premium Features",
+    "jnvst": {
+      "anchorText": "Navodaya Coaching",
       "redirectUrl": "https://thespeedybrains.com/premium",
       "freeBadge": "50% Off",
       "style": {
